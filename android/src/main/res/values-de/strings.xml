@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_gone">Diese App ist weg :-(</string>
+    <string name="allow_gap_search_descr">Findet alle Buchstaben, nicht nur ganze wörter</string>
+    <string name="appActionDialog_title">FAST Start</string>
+    <string name="as_new_entry">Als neuen Eintrag hinzufügen</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="change_label">Namen ändern</string>
+    <string name="change_label_of">Bearbeite Name von %s</string>
+    <string name="help_label">Hilfe</string>
+    <string name="hide_app">Verstecken</string>
+    <string name="hide_original_entry">Alten Eintrag verstecken</string>
+    <string name="icon_resolution_summary">Mehr Schnelligkeit oder mehr pixel?</string>
+    <string name="icon_resolution_title">Bildauflösung</string>
+    <string name="ignore_space">Leerzeichen ignorieren</string>
+    <string name="ignore_space_descr">Ignoriert ein Leerzeichen am Ende des Suchbegriffs</string>
+    <string name="loadingDialogTitle">Gerneriere cache...</string>
+    <string name="new_label"></string>
+</resources>
