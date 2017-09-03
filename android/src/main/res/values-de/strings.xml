@@ -7,7 +7,6 @@
     <string name="cancel">Abbrechen</string>
     <string name="change_label">Namen ändern</string>
     <string name="change_label_of">Bearbeite Name von %s</string>
-    <string name="help_label">Hilfe</string>
     <string name="hide_app">Verstecken</string>
     <string name="hide_original_entry">Alten Eintrag verstecken</string>
     <string name="icon_resolution_summary">Mehr Schnelligkeit oder mehr pixel?</string>
@@ -15,5 +14,4 @@
     <string name="ignore_space">Leerzeichen ignorieren</string>
     <string name="ignore_space_descr">Ignoriert ein Leerzeichen am Ende des Suchbegriffs</string>
     <string name="loadingDialogTitle">Gerneriere cache...</string>
-    <string name="new_label"></string>
 </resources>
